@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/The-Sleety/The-Sleety/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/The-Sleety/The-Sleety/output/snake.svg](https://github.com/The-Sleety/The-Sleety/blob/main/snake.yml)" alt="Snake animation" />
 
 ###
 
