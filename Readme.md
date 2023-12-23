@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sleety and I'm a Game/Web dev, from Turkiye.</h2>
+<h2 align="left">Hi 👋! My name is Sleety and I'm a self thought Game/Web dev, from Turkiye.</h2>
 
 ###
 
